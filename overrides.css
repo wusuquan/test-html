@@ -1,3 +1,10 @@
 .intro-copy h2 {
   color: var(--red);
 }
+
+.news-list article:first-child h3 {
+  font-family: "STKaiti", "KaiTi", "FangSong", serif;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
